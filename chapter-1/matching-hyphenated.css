@@ -1,0 +1,16 @@
+[class|="promo"] {
+    border-top: 5px solid #4caf50;
+    color: #555;
+    line-height: 1.3;
+    padding-top: .5em;
+}
+
+[class|="promo"] h3 {
+    color: #000;
+    font-size: 1.2em;
+    margin: 0;
+}
+
+[class|="promo"] p {
+    margin: 0 0 1em;
+}
